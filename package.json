@@ -1,0 +1,23 @@
+{
+  "name": "nodesql",
+  "version": "0.1.0",
+  "description": "an auction style app for node.js and MySql",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spintax/NodeSQL.git"
+  },
+  "author": "Adam Magee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spintax/NodeSQL/issues"
+  },
+  "homepage": "https://github.com/spintax/NodeSQL#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  }
+}
